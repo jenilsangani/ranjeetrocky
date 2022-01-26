@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stack Overflow states
+## Stack Overflow stats
 <!-- <details> -->
   <!-- <summary>Stack Overflow</summary> -->
   <p align="center">
