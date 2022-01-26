@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stack Overflow states
 <!-- <details> -->
-  <summary>Stack Overflow</summary>
+  <!-- <summary>Stack Overflow</summary> -->
   <p align="center">
     <a href="https://stackoverflow.com/users/9557169" target="_blank">
       <img src="https://github-readme-stackoverflow.vercel.app/?userID=9557169&theme=dark" alt="Kishan Dhankecha StackOverflow" /> 
@@ -43,8 +44,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+## Github Stats
 <!-- <details> -->
-  <summary>Github Stats</summary>
+  <!-- <summary>Github Stats</summary> -->
   <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&show_icons=true&theme=tokyonight" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrocky&theme=tokyonight" /></br></br>
