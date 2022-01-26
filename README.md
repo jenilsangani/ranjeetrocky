@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Activity Graph
-<p align="center">
-<a href="https://github.com/ranjeetrocky/">
- <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-</br>
+
 <!-- <details> -->
   <summary>Stack Overflow</summary>
   <p align="center">
@@ -29,6 +23,13 @@ Here are some ideas to get you started:
     </a>
   </p>
 <!-- </details> -->
+## Activity Graph
+<p align="center">
+<a href="https://github.com/ranjeetrocky/">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+</br>
 <!-- <details> -->
   <summary>Github Stats</summary>
   <p align="center">
