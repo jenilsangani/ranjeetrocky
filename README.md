@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <details>
-  <summary>Github Stats</summary> -->
+
+<!-- <details> -->
+  <summary>Stack Overflow</summary>
+  <p align="center">
+    <a href="https://stackoverflow.com/users/9557169" target="_blank">
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=9557169&theme=dark" alt="Kishan Dhankecha StackOverflow" /> 
+    </a>
+  </p>
+<!-- </details> -->
+<!-- <details> -->
+  <summary>Github Stats</summary>
   <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&show_icons=true&theme=tokyonight" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrocky&theme=tokyonight" /></br></br>
