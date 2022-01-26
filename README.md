@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ranjeetrocky/ranjeetrocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"><img src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/hello.gif" width="30px"> Hello there, it's <a href="https://www.linkedin.com/in/manan-d-170987167">ranjeetrocky</a>!</h1>
 
-## Stack Overflow stats
+# Stack Overflow Stats
 <!-- <details> -->
   <!-- <summary>Stack Overflow</summary> -->
   <p align="center">
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
   </p>
 <!-- </details> -->
 
-# Prefs
+## Prefs
 <table>
   <tr>
     <th>Technologies</th>
