@@ -23,13 +23,26 @@ Here are some ideas to get you started:
     </a>
   </p>
 <!-- </details> -->
-## Activity Graph
-<p align="center">
-<a href="https://github.com/ranjeetrocky/">
- <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-</br>
+
+# Prefs
+<table>
+  <tr>
+    <th>Technologies</th>
+    <td> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Node-DDff32?style=for-the-badge&logo=node&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter">
+    </td>
+    </tr>
+  <tr>
+    <th>OS</th>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></td>
+  </tr>
+  <tr>
+    <th>Creative Apps</th>
+    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobe&logoColor=303"></td>
+
+  </tr>
+</table>
+
 <!-- <details> -->
   <summary>Github Stats</summary>
   <p align="center">
@@ -38,3 +51,11 @@ Here are some ideas to get you started:
     <img src="https://views.whatilearened.today/views/github/ranjeetrocky/views.svg" />
   </p>
 <!-- </details> -->
+
+## Activity Graph
+<p align="center">
+<a href="https://github.com/ranjeetrocky/">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+</br>
