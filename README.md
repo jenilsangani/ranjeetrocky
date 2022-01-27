@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><img src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/images/hello.gif" width="30px"> Hello there, it's <a href="https://www.linkedin.com/in/manan-d-170987167">ranjeetrocky</a>!</h1>
 
-# Stack Overflow Stats
+## Stack Overflow Stats
 <!-- <details> -->
   <!-- <summary>Stack Overflow</summary> -->
   <p align="center">
@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 <!-- <details> -->
   <!-- <summary>Github Stats</summary> -->
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrocky&theme=tokyonight" /></br></br>
+    <img style="border-radius=25px" width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&text_color=ffffff&hide_border=true&bg_color=0d1117&title_color=5bcdec&show_icons=true&theme=vue-dark" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrocky&hide_border=true&background=0d1117&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&theme=vue-dark" /></br></br>
+    <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrocky&hide_border=true&background=ffffff00&theme=vue-dark" /></br></br>-->
     <img src="https://views.whatilearened.today/views/github/ranjeetrocky/views.svg" />
   </p>
 <!-- </details> -->
@@ -58,7 +59,23 @@ Here are some ideas to get you started:
 ## Activity Graph
 <p align="center">
 <a href="https://github.com/ranjeetrocky/">
- <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ranjeetrocky&bg_color=0d1117&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 </br>
+
+##  Languages Used
+<p align="center">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205"> -->
+<a href="https://github.com/ranjeetrocky/ranjeetrocky">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrocky&hide=css,html,handlebars&title_color=51b782&text_color=ffffff&icon_color=2bbc8a&theme=tokyonight&hide_border=true" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrocky&hide=css,html,handlebars&title_color=51b782&text_color=ffffff&icon_color=2bbc8a&bg_color=ffffff00&theme=tokyonight&hide_border=true" /> -->
+</a>
+</p>
+
+## Connect with Me 
+<p align="left">
+<a href="https://www.linkedin.com/in/manandomadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/linkedin.svg" alt="yatinj-sutariya-310594184" height="30" width="50" /></a>
+<a href="https://stackoverflow.com/users/9557169/manan-domadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/stack-overflow.svg" alt="yatinj-sutariya" height="30" width="50" /></a>
+<a href="https://www.instagram.com/manan_domadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/instagram.svg" alt="yatinj_sutariya" height="30" width="50" /></a>
+</p>
