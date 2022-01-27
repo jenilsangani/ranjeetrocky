@@ -27,6 +27,6 @@ jobs:
           git commit -m "[Automated] README updated!"
           
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
