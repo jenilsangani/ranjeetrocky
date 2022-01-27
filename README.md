@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=ranjeetrocky&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205"> -->
 <a href="https://github.com/ranjeetrocky/ranjeetrocky">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrocky&hide=css,html,handlebars&title_color=51b782&text_color=ffffff&icon_color=2bbc8a&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrocky&title_color=51b782&text_color=ffffff&icon_color=2bbc8a&theme=tokyonight&hide_border=true" />
   <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrocky&hide=css,html,handlebars&title_color=51b782&text_color=ffffff&icon_color=2bbc8a&bg_color=ffffff00&theme=tokyonight&hide_border=true" /> -->
 </a>
 </p>
