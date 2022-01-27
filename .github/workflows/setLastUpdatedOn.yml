@@ -1,4 +1,4 @@
-name: set last updated on
+name: setLastUpdatedOn
 on:
   schedule:
     - cron: "2 * * * *"
@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get random verse
+      - name: setting Template File
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
