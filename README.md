@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me 
 <p align="left">
-<a href="https://www.linkedin.com/in/manandomadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/linkedin.svg" alt="yatinj-sutariya-310594184" height="30" width="50" /></a>
-<a href="https://stackoverflow.com/users/9557169/manan-domadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/stack-overflow.svg" alt="yatinj-sutariya" height="30" width="50" /></a>
-<a href="https://www.instagram.com/manan_domadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/instagram.svg" alt="yatinj_sutariya" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/manandomadiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/linkedin.svg" alt="yatinj-sutariya-310594184" height="30" width="50" /></a>
+<a href="https://stackoverflow.com/users/9557169/manan-domadiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/stack-overflow.svg" alt="yatinj-sutariya" height="30" width="50" /></a>
+<a href="https://www.instagram.com/manan_domadiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/instagram.svg" alt="yatinj_sutariya" height="30" width="50" /></a>
 </p>
