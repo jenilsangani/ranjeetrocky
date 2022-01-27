@@ -5,7 +5,7 @@ function twoDec(number) {
     return (number < 10 ? '0' : '') + number
 }
 function getDateTime(date) {
-    return month[date.getMonth()] + " " + date.getDate() + ", " + date.getFullYear() + " " + twoDec(date.getHours() % 12) + ":" + twoDec(date.getMinutes()) + ":" + twoDec(date.getSeconds()) + " " + (date.getHours() > 12 ? "PM" : "AM")
+    return month[date.getMonth()] + " " + date.getDate() + ", " + date.getFullYear() + " " + twoDec(date.getHours() % 12) + ":" + twoDec(date.getMinutes()) + " " + (date.getHours() > 12 ? "PM" : "AM")
 }
 
 async function main() {
