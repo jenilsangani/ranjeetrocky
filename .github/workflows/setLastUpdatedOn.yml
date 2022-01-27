@@ -25,6 +25,7 @@ jobs:
           git config --global user.name "ranjeetrocky"
           git config --global user.email "ranjeetrocky2000@gmail.com"
           git commit -m "[Automated] README updated!"
+          
       - name: Push
         uses: ad-m/github-push-action@main
         with:
