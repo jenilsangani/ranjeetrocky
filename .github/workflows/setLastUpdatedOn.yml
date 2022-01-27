@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 14.6.0
 
-      - run: node dateUpdater.js
+      - run: node .
 
       - name: Add to git repo
         run: |
