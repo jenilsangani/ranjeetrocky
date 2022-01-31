@@ -1,7 +1,7 @@
 name: setLastUpdatedOn
 on:
   schedule:
-    - cron: "0 */1 * * *" # Cron Every Hour
+    - cron: "0 */4 * * *" # Cron Every Hour
   workflow_dispatch:
 
 jobs:
