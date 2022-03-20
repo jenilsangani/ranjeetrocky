@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/9557169/manan-domadiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/stack-overflow.svg" alt="yatinj-sutariya" height="30" width="50" /></a>
 <a href="https://www.instagram.com/manan_domadiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/instagram.svg" alt="yatinj_sutariya" height="30" width="50" /></a>
 </p>
-<p align="right">last updated on : <b>Mar 19, 2022 00:16 AM</b></p>
+<p align="right">last updated on : <b>Mar 20, 2022 00:43 AM</b></p>
