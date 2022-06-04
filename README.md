@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><img src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/images/hello.gif" height="30px" style="width:30px;"> Hello there, it's <a href="https://www.linkedin.com/in/manan-d-170987167">ranjeetrocky</a>!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/images/hello.gif" style="width:30px;height:30px"> Hello there, it's <a href="https://www.linkedin.com/in/manan-d-170987167">ranjeetrocky</a>!</h1>
 
 ## Stack Overflow Stats
 <!-- <details> -->
@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/9557169/manan-domadiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/stack-overflow.svg" alt="Manan-Domadiya" height="30" width="50" /></a>
 <a href="https://www.instagram.com/manan_domadiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ranjeetrocky/ranjeetrocky/main/assets/svgs/instagram.svg" alt="manan_domadiya" height="30" width="50" /></a>
 </p>
-<p align="right">last updated on : <b>Jun 4, 2022 10:23 AM</b></p>
+<p align="right">last updated on : <b>Jun 4, 2022 10:24 AM</b></p>
